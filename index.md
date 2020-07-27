@@ -2,15 +2,15 @@
 title: Home
 ---
 
-# EANBiT Residential Training 2019.
+# EANBiT Residential Training 2020.
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Participants of EANBIT Residential Training 2018" width="75%" %}
 
 
 The Eastern Africa Network for Bioinformatics Training (EANBiT) will conduct an intensive 6-
 week bioinformatics residential course to be hosted by the International Centre of Insect
-Physiology and Ecology, icipe in Nairobi, Kenya and Pwani University, Kilifi, Kenya from **01st
-July – 09th August 2019.**
+Physiology and Ecology, icipe in Nairobi, Kenya and Pwani University, Kilifi, Kenya from **06th
+July – 09th August 2020.**
 
 This training aims at strengthening bioinformatics technical capacity and skills among the
 participants; preparing them to work as bioinformaticians and to become project ready so that
